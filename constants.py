@@ -1,0 +1,4 @@
+PWD_HASH_SALT = b'hghfgdfhghjhjh'
+PWD_HASH_ITERATIONS = 100_000
+JWT_SECRET = "Secret"
+JWT_ALG = "HS256"
